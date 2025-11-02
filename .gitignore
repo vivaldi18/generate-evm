@@ -1,0 +1,11 @@
+# Jangan upload data sensitif
+phrase.txt
+privatekey.txt
+address.txt
+balance.txt
+
+# Environment & dependency
+venv/
+__pycache__/
+*.pyc
+*.log
